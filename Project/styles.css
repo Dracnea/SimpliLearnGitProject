@@ -3,6 +3,10 @@ li {
     padding-right: 1em;
 }
 
+article {
+    text-align: justify;
+}
+
 span.text-light2{
     color: #999c9f;
 }
@@ -26,4 +30,4 @@ span.text-light2{
     bottom: 0;
     width: 100%;
     height: 2.5rem;            /* Footer height */
-  }
+}
