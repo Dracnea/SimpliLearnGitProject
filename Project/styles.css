@@ -6,3 +6,24 @@ li {
 span.text-light2{
     color: #999c9f;
 }
+
+.sticky {
+    position: fixed;
+}
+
+#page-container {
+    position: relative;
+    min-height: 100vh;
+  }
+  
+#content-wrap {
+    padding-bottom: 2.5rem;    /* Footer height */
+  }
+  
+#footer {
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;            /* Footer height */
+  }
