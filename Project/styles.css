@@ -1,3 +1,6 @@
+h1.center {
+    padding-top: 1em;
+}
 li {
     padding-left: 1em;
     padding-right: 1em;
@@ -9,6 +12,10 @@ article {
 
 span.text-light2{
     color: #999c9f;
+}
+
+.center {
+    text-align: center;
 }
 
 .sticky {
